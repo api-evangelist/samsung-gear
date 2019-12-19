@@ -1,0 +1,48 @@
+{
+    "name": "Samsung Gear",
+    "description": "<p>Download the SDK and start building your services for Samsung Gear S2. We can&rsquo;t wait to meet the new apps you will create! Samsung Gear S2 provides you Circular UX, which allows you to use the Bezel to build new user experiences. Cross compatibility between all the Gear devices is important to give a seamless experience from one device to another. Guidelines for developing on Tizen-based wearable applications are available.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/samsun-developers.png",
+    "tags": [
+        "have api",
+        "wearables"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/samsung-gear\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Samsung Gear",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/samsun-developers.png",
+            "humanURL": "http:\/\/developer.samsung.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/samsung-gear-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.samsung.com\/gear\/develop"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/samsung_dev"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.samsung.com\/gear"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.samsung.com"
+        }
+    ]
+}
